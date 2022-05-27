@@ -4,8 +4,6 @@ url: "https://blog.fynn93.tech" # the base hostname & protocol for your site, e.
 
 header_pages:
   - blog.markdown
-  - features.markdown
-  - download.markdown
 
 minima:
   skin: dark
