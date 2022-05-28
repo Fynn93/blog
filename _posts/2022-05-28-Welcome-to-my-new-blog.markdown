@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  test
+title:  My first blog
 date:   2022-05-28 08:00:00 +0100
 author: Fynn
 ---
